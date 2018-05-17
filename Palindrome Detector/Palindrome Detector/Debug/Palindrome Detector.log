@@ -1,0 +1,4 @@
+﻿  Palindrome Detector.cpp
+c:\users\firebat47\documents\visual studio 2017\projects\palindrome detector\palindrome detector\palindrome detector.cpp(99): error C4716: 'readtext': must return a value
+c:\users\firebat47\documents\visual studio 2017\projects\palindrome detector\palindrome detector\queue.h(153): warning C4715: 'SingleQueue<char>::Front': not all control paths return a value
+c:\users\firebat47\documents\visual studio 2017\projects\palindrome detector\palindrome detector\queue.h(139): warning C4715: 'SingleQueue<char>::DeQueue': not all control paths return a value
