@@ -1,0 +1,5 @@
+﻿  Paper Rock Scissor.cpp
+c:\users\firebat47\documents\visual studio 2017\projects\paper rock scissor\paper rock scissor\paper rock scissor.cpp(153): warning C4715: 'playGame': not all control paths return a value
+c:\users\firebat47\documents\visual studio 2017\projects\paper rock scissor\paper rock scissor\paper rock scissor.cpp(178): warning C4715: 'playMatch': not all control paths return a value
+  Paper Rock Scissor.vcxproj -> C:\Users\firebat47\Documents\Visual Studio 2017\Projects\Paper Rock Scissor\Debug\Paper Rock Scissor.exe
+  Paper Rock Scissor.vcxproj -> C:\Users\firebat47\Documents\Visual Studio 2017\Projects\Paper Rock Scissor\Debug\Paper Rock Scissor.pdb (Partial PDB)
