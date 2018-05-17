@@ -1,0 +1,2 @@
+﻿  Hotel Occupancy.cpp
+c:\users\firebat47\documents\visual studio 2017\projects\hotel occupancy\hotel occupancy\hotel occupancy.cpp(99): error C2660: 'std::setprecision': function does not take 0 arguments

@@ -1,0 +1,4 @@
+﻿  Grade Books.cpp
+c:\users\firebat47\documents\visual studio 2017\projects\grade books\grade books\grade books.cpp(20): warning C4101: 'grade': unreferenced local variable
+  Grade Books.vcxproj -> c:\users\firebat47\documents\visual studio 2017\Projects\Grade Books\G\Debug\Grade Books.exe
+  Grade Books.vcxproj -> c:\users\firebat47\documents\visual studio 2017\Projects\Grade Books\G\Debug\Grade Books.pdb (Partial PDB)

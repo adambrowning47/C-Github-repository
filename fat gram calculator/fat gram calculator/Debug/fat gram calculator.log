@@ -1,0 +1,5 @@
+﻿  fat gram calculator.cpp
+c:\users\firebat47\documents\visual studio 2017\projects\fat gram calculator\fat gram calculator\fat gram calculator.cpp(17): warning C4101: 'cont': unreferenced local variable
+c:\users\firebat47\documents\visual studio 2017\projects\fat gram calculator\fat gram calculator\fat gram calculator.cpp(11): warning C4101: 'ch': unreferenced local variable
+  fat gram calculator.vcxproj -> C:\Users\firebat47\Documents\Visual Studio 2017\Projects\fat gram calculator\Debug\fat gram calculator.exe
+  fat gram calculator.vcxproj -> C:\Users\firebat47\Documents\Visual Studio 2017\Projects\fat gram calculator\Debug\fat gram calculator.pdb (Partial PDB)
